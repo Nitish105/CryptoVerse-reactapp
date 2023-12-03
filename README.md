@@ -1,6 +1,6 @@
 # CrpytoVerse App
-## This is a react-based application named "CryptoVerse App". You can Check your Crypto Currency such as Bitcoin, Ethereum, Solona, etc. current or past price rises or falls anytime and anywhere.
-## Link 👉 https://cryptoverse-reactapp.vercel.app/
+This is a react-based application named "CryptoVerse App". You can Check your Crypto Currency such as Bitcoin, Ethereum, Solona, etc. current or past price rises or falls anytime and anywhere. <br>
+Link 👉 https://cryptoverse-reactapp.vercel.app/
 
 # Getting Started with Create React App
 
