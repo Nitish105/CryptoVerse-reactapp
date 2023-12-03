@@ -1,3 +1,7 @@
+## CrpytoVerse App
+# This is a react-based application named "CryptoVerse App". You can Check your Crypto Currency such as Bitcoin, Ethereum, Solona, etc. current or past price rises or falls anytime and anywhere.
+# Link 👉 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
